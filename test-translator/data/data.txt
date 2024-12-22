@@ -1,0 +1,14 @@
+Hello ||| Kamusta
+How are you? ||| Kamusta ka?
+I am fine. ||| Mabuti ako.
+What is your name? ||| Ano ang pangalan mo?
+My name is John. ||| Ang pangalan ko ay John.
+I love programming. ||| Mahilig ako sa pagprograma.
+How old are you? ||| Ilang taon ka na?
+I am 25 years old. ||| 25 taong gulang ako.
+Where are you from? ||| Taga saan ka?
+I am from Manila. ||| Taga-Manila ako.
+Good morning! ||| Magandang umaga!
+Good night! ||| Magandang gabi!
+Thank you! ||| Salamat!
+You're welcome. ||| Walang anuman.
