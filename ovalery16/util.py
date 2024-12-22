@@ -7,12 +7,13 @@ from keras.callbacks import TensorBoard
 import numpy as np
 import _pickle as pickle
 
-batch_size = 32  # Batch size for training original 128.
+batch_size = 128  # Batch size for training original 128.
 epochs = 20  # Number of epochs to train for.
-latent_dim = 128#256  # Latent dimensionality of the encoding space original 1024.
+latent_dim = 1024 #256  # Latent dimensionality of the encoding space original 1024.
 num_samples = 3830  # Number of samples to train on 145437.
 # Path to the data txt file on disk.
-data_path = 'new_tgl.txt' # to replace by the actual dataset name
+data_path = "C:/Users/chamb/Documents/GitHub/translator/ovalery16/new_tgl.txt"
+
 encoder_path='encoder_modelPredTranslation.h5'
 decoder_path='decoder_modelPredTranslation.h5'
 LOG_PATH="log"

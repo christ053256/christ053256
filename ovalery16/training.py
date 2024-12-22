@@ -14,5 +14,5 @@ encoder_model,decoder_model,reverse_target_char_index=generateInferenceModel(enc
 
 # we save the object to convert the sequence to encoding  and encoding to sequence
 # our model is made for being used with different langages that do not have the same number of letters and the same alphabet
-saveChar2encoding("/output/char2encoding.pkl",input_token_index,max_encoder_seq_length,num_encoder_tokens,reverse_target_char_index,num_decoder_tokens,target_token_index)
+saveChar2encoding("C:/Users/chamb/Documents/GitHub/translator/ovalery16/output/char2encoding.pkl",input_token_index,max_encoder_seq_length,num_encoder_tokens,reverse_target_char_index,num_decoder_tokens,target_token_index)
 

@@ -1,6 +1,7 @@
 from keras.models import load_model
 from util import *
-filename="char2encoding.pkl"
+filename = "C:/Users/chamb/Documents/GitHub/translator/ovalery16/output/char2encoding.pkl"
+
 
 #sentence="I work"
 sentence = input("English: ")
